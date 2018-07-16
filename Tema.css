@@ -452,8 +452,8 @@
 }
 	/*## [TAG-VIP] ##*/
 	
-       /*# [ninguem] #*/
-#user-rollover.id-000000 .level:after {
+       /*# [h2ota] #*/
+#user-rollover.id-33132266 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
     content: "[VIP]";
@@ -759,8 +759,8 @@
     position: relative;
 }
         /*# [TAG-VIP] #*/
-		/*# ninguem #*/
-#chat [data-cid^='000000-'] .un:before {
+		/*# h2ota #*/
+#chat [data-cid^='33132266-'] .un:before {
     content: '[VIP]';
     top: 0px;
     Left: 0px;
@@ -854,7 +854,7 @@
 
     /*## [Staff] ##*/
 
-        /*# [NightPlug] #*/
+        /*# [3/4 #*/
 #user-rollover.id-30619682 .badge-box > i.bdg,
 .id-30619682 > .badge-box > i.bdg
 {
